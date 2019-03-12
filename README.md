@@ -1,2 +1,9 @@
 Git command 
-#Main brunches
+#Main branches
+
+git init
+git add README
+git commit -m "comment"
+
+
+
