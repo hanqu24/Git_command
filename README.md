@@ -1,9 +1,5 @@
-Git command 
-#Main branches
+Git command summary
 
-git init
-git add README
-git commit -m "comment"
 
 
 
